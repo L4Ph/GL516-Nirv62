@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Nirva62-rescue)(type Legacy)(uri ${KIPRJMOD}/Nirva62-rescue.lib)(options "")(descr ""))
+)
