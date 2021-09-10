@@ -1,4 +1,3 @@
-# GL516-Nirv62
 <!--最初にロゴ・アイキャッチ画像などを表示
 KLEのレイアウト画像とロゴなんかがよさそう-->
 ![KLE Image](https://imgur.com/ICqiy6f.png)
@@ -6,7 +5,7 @@ KLEのレイアウト画像とロゴなんかがよさそう-->
 
 [Keyboard Layout Editor Permalink](http://www.keyboard-layout-editor.com/##@@_x:1&a:7%3B&=SW1&=SW6&=SW10&=SW14&=SW18&=SW23&=SW28&_x:0.5%3B&=SW34&=SW38&=SW43&=SW48&_w:2%3B&=SW53%3B&@_x:0.75&w:1.5%3B&=SW2&=SW7&=SW11&=SW15&=SW19&=SW24&=SW29&=SW35&=SW39&=SW44&=SW49&=SW54&=SW57&_w:1.5%3B&=SW60%3B&@_x:0.25&w:1.75%3B&=SW3&=SW8&=SW12&=SW16&=SW20&=SW25&=SW30&_x:0.5%3B&=SW36&=SW40&=SW45&=SW50&=SW55&_w:2.25%3B&=SW58%3B&@_w:1.75%3B&=SW4&=SW9&=SW13&=SW17&=SW21&=SW26&=SW31&=SW33&=SW37&=SW41&=SW46&=SW51&_a:4%3B&=%0A.%0A%0A%0A%0A%0A%0A%0A%0ASW56&_a:7%3B&=SW59&=SW61%3B&@_w:1.25%3B&=SW5&_x:1&w:1.25%3B&=SW22&_w:2.75%3B&=SW27&_w:1.25%3B&=SW32&_x:1.5%3B&=SW42&_w:2.25%3B&=SW47&_w:1.25%3B&=SW52&_x:1&w:1.25%3B&=SW62)
 
-# リポジトリ名(完成写真なども)
+# Nirv62
 [![画像説明](https://imgur.com/1VleMdS.png)](https://github.com/Salicylic-acid3/GL516_Template)
 <!--imgurかGyazoがいいと思います-->
 
